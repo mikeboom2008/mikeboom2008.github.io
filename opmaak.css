@@ -3,7 +3,7 @@ ul {
     overflow: hidden;
     margin: 0px;
     padding: 0px;
-    background-color: brown;
+    background-color: cadetblue;
   }
   
   li {
@@ -20,4 +20,12 @@ ul {
   
   li a:hover {
     background-color: brown;
+  }
+
+  p {
+
+  }
+
+  .klas {
+
   }
