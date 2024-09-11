@@ -1,9 +1,16 @@
+body{ background-color: darkturquoise;
+
+}
+
+
+
+
 ul {
     list-style-type: none;
     overflow: hidden;
     margin: 0px;
     padding: 0px;
-    background-color: cadetblue;
+    background-color: beige;
   }
   
   li {
@@ -19,7 +26,7 @@ ul {
   }
   
   li a:hover {
-    background-color: brown;
+    background-color: lightcyan;
   }
 
   p {
