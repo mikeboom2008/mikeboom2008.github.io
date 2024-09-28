@@ -1,6 +1,7 @@
-body{ 
+body{
   background-color: aquamarine;
-}
+} 
+Achtergrondkleur pagina 
 
 ul {
     list-style-type: none;
@@ -9,10 +10,11 @@ ul {
     padding: 0px;
     background-color: burlywood;
   } 
-  
+  achtergrondkleur,afstand van andere text, dikte en stijl van menu  
+
   li {
     float: left;
-  } 
+  }  menu begint links 
   
   li a {
     display: block;
@@ -20,33 +22,33 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  } 
+  }  stijl, kleur, dikte, vorm van de text in menu
   
   li a:hover {
     background-color: rgb(168, 134, 89);
-  } 
+  } de kleur als je met je muis over het menu gaat
 
 body{
   margin: 0%;;
-}
+} Menu helemaal tegen de bovenkant van pagina
 
 body{
   text-align: center;
-} 
+} alle text van body in het midden
 
 p{
   margin: 2%;
-}
+} afstand van de parragraven op elkaar
 
 h1{
   border-style:solid;
 border-color: peru;
 margin: 2%;
-} 
+} de stijl, kleur en de afstand van de rest van de text van de rand om de dikgedrukte text
 
 footer{
   background-color: burlywood;
   text-align: center;
   color: white;
   padding: 2px;
-}
+} de kleur van de text en de achtergrond, de text in het midden en de dikte van de footer onderaan de pagina
